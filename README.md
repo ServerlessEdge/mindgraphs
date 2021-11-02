@@ -1,3 +1,3 @@
 # Serverless Edge Mindmaps
 
-Collection of mindmaps related to https://www.theserverlessedge.com/ or the upcoming book.
+Collection of mindmaps (Not real maps :-)) related to https://www.theserverlessedge.com/.
