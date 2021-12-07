@@ -1,4 +1,4 @@
-# Serverless Edge Mindmaps
+# Serverless Edge MindGraphs
 
 Collection of mindgraphs (Not real maps :-)) related to https://www.theserverlessedge.com/.
 
